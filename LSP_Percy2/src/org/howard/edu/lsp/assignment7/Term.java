@@ -31,6 +31,7 @@ public class Term implements Comparable{
 	@Override
 	/**
 	 * Changes the coefficient 
+	 * @return the coefficent X and exponent Y
 	 */
 	public String toString() {
 		
